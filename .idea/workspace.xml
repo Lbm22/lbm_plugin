@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d18fe88d-e2d2-4759-8352-5137dbbcdd38" name="Default Changelist" comment="" />
+    <list default="true" id="d18fe88d-e2d2-4759-8352-5137dbbcdd38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +52,25 @@
       <option name="presentableId" value="Default" />
       <updated>1600927937222</updated>
     </task>
+    <task id="LOCAL-00001" summary="by monika">
+      <created>1600944834151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600944834152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="by monika" />
+    <option name="LAST_COMMIT_MESSAGE" value="by monika" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1600944833418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600944833418" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1600933894723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -77,10 +95,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600944671767" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600944617199">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600944843053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600944617199" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600944843053" />
     <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600944738167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
