@@ -27,7 +27,7 @@ class LbmPlugin {
 
   }
 
-  Future<http.Response> APIMainClass(
+static  Future<http.Response> APIMainClass(
       String BaseURL,String SubURL, Map<String, String> paramDic, String PostGet,String api_key) async {
     switch(PostGet){
     //Get Method Work
