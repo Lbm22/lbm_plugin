@@ -1,6 +1,6 @@
 name: lbm_plugin
 description: A new Flutter plugin.
-version: 0.2.3
+version: 0.2.4
 homepage: https://github.com/Lbm22/lbm_plugin.git
 
 environment:
