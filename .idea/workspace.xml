@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d18fe88d-e2d2-4759-8352-5137dbbcdd38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\manji\.android\avd\Pixel_4a_API_30.avd]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -23,16 +32,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -65,43 +74,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="by monika" />
     <option name="LAST_COMMIT_MESSAGE" value="by monika" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1600945461756">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600945461756" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1600933894723">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600933894723" />
-    <state width="1306" height="242" key="GridCell.Tab.0.bottom" timestamp="1600933500158">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600933500158" />
-    <state width="1306" height="242" key="GridCell.Tab.0.center" timestamp="1600933500158">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600933500158" />
-    <state width="1306" height="242" key="GridCell.Tab.0.left" timestamp="1600933500157">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600933500157" />
-    <state width="1306" height="242" key="GridCell.Tab.0.right" timestamp="1600933500158">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600933500158" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1600944671767">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600944671767" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600945482865">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600945482865" />
-    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600944738167">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600944738167" />
   </component>
 </project>
