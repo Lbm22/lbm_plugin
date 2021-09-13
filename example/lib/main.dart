@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'dart:async';
 
@@ -15,7 +17,6 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   String _platformVersion = 'Unknown';
-
   @override
   void initState() {
     super.initState();
@@ -24,11 +25,17 @@ class _MyAppState extends State<MyApp> {
 
   // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
-    String platformVersion;
+    var platformVersion;
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
-      platformVersion = await LbmPlugin.platformVersion;
+      String Base_Url_For_App="crmapi.lbmsolutions.in";
+      String Purchase_Code_envato="12345678";
+      String Licence_Key_by_Admin="12345678912";
 
+
+      platformVersion = await LbmPlugin.platformVersion(Base_Url_For_App,Purchase_Code_envato,Licence_Key_by_Admin);
+      var data = json.decode(platformVersion.body);
+      print(data['message']);
     } on PlatformException {
       platformVersion = 'Failed to get platform version.';
     }
@@ -39,13 +46,7 @@ class _MyAppState extends State<MyApp> {
     if (!mounted) return;
 
     setState(() {
-      _platformVersion = platformVersion;
-       if(_platformVersion=="5"){
-      print("False");
 
-       }else{
-         print(true);
-       }
     });
   }
 
